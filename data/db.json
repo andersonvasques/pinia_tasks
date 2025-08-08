@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "play gloomhaven",
+      "isFav": true
+    },
+    {
+      "title": "becone an eldern lod",
+      "isFav": false,
+      "id": "3"
+    },
+    {
+      "title": "eat some pineapples",
+      "isFav": false,
+      "id": "4"
+    }
+  ]
+}
